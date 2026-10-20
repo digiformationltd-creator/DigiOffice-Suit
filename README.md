@@ -24,10 +24,6 @@ All verified production installers are hosted and distributed through the offici
 * 🚀 [Download 64-Bit Edition (.exe 144MB)](https://www.digibizos.co.uk/open-source/digioffice) — For Windows 10 & 11 (64-Bit x64). High performance multi-core acceleration.  
 * ⚡ [Download 32-Bit Universal Edition (.exe 104MB)](https://www.digibizos.co.uk/open-source/digioffice) — Universal compatibility for Windows 7 SP1, 8.1, 10, 11 (32-Bit x86 & 64-Bit).
 
-### 🗜️ Portable ZIP Editions (Zero Installation Required)
-* 💼 [Download Portable 64-Bit (.zip 235MB)](https://www.digibizos.co.uk/open-source/digioffice)  
-* 💼 [Download Portable 32-Bit (.zip 162MB)](https://www.digibizos.co.uk/open-source/digioffice)
-
 🌐 **[Explore all Open-Source Tools on DIGI BIZ OS](https://www.digibizos.co.uk/open-source)**
 
 ---
