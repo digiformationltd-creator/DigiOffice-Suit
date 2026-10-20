@@ -18,13 +18,17 @@
 
 All verified production installers are hosted and distributed through the official DIGI BIZ OS Open-Source Portal:
 
-### 1-Click Windows Installers (Recommended)
-🚀 [Download 64-Bit Edition (.exe 144MB)](https://www.digibizos.co.uk/open-source/digioffice) — For Windows 10 & 11 (64-Bit x64). High performance multi-core acceleration.  
-⚡ [Download 32-Bit Universal Edition (.exe 104MB)](https://www.digibizos.co.uk/open-source/digioffice) — Universal compatibility for Windows 7 SP1, 8.1, 10, 11 (32-Bit x86 & 64-Bit).
+### ⚡ 1-Click Official Windows Installer (Recommended)
+👉 **[🚀 Download DigiOffice Suite Setup (.exe)](https://www.digibizos.co.uk/open-source/digioffice)** — Standalone 1-click Windows installer (64-Bit & 32-Bit Universal) with Sheesha frosted glass UI, Rust calculation engine, and automatic desktop shortcuts.
+
+* 🚀 [Download 64-Bit Edition (.exe 144MB)](https://www.digibizos.co.uk/open-source/digioffice) — For Windows 10 & 11 (64-Bit x64). High performance multi-core acceleration.  
+* ⚡ [Download 32-Bit Universal Edition (.exe 104MB)](https://www.digibizos.co.uk/open-source/digioffice) — Universal compatibility for Windows 7 SP1, 8.1, 10, 11 (32-Bit x86 & 64-Bit).
 
 ### 🗜️ Portable ZIP Editions (Zero Installation Required)
-💼 [Download Portable 64-Bit (.zip 235MB)](https://www.digibizos.co.uk/open-source/digioffice)  
-💼 [Download Portable 32-Bit (.zip 162MB)](https://www.digibizos.co.uk/open-source/digioffice)
+* 💼 [Download Portable 64-Bit (.zip 235MB)](https://www.digibizos.co.uk/open-source/digioffice)  
+* 💼 [Download Portable 32-Bit (.zip 162MB)](https://www.digibizos.co.uk/open-source/digioffice)
+
+🌐 **[Explore all Open-Source Tools on DIGI BIZ OS](https://www.digibizos.co.uk/open-source)**
 
 ---
 
@@ -52,7 +56,7 @@ Full native `.xlsx` spreadsheet workbook environment with formula evaluations (`
 
 Installing DigiOffice Suite is straightforward and requires zero complex configuration:
 
-1. **Download the Setup Installer**: Click either the **64-Bit** or **32-Bit Universal** installer link above to visit our official download page.
+1. **Download the Setup Installer**: Click either the **64-Bit** or **32-Bit Universal** installer link above to visit our official download page: **[https://www.digibizos.co.uk/open-source/digioffice](https://www.digibizos.co.uk/open-source/digioffice)**.
 2. **Launch the Installer**: Run `DigiOffice-Suite-Setup-64Bit-(Windows-10-and-11).exe` or `DigiOffice-Suite-Setup-32Bit-(Windows-7-to-11).exe`.
 3. **Complete the Wizard**: Follow the standard Windows setup wizard (takes under 15 seconds). It will:
    * Install the binaries cleanly into your local system directory.

@@ -1,8 +1,7 @@
 # DigiOffice Suite Git Ignore
-# Ignore all work folders, binaries, scratch files, and untracked artifacts
+# Ignore local build directories, temporary files, and unpacked assets
 app_extracted/
 digioffice_app/
-GenOffice*
 FINAL/
 DigiOffice-Suite-*
 __pycache__/
@@ -25,6 +24,6 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-# Allow assets directory and images
+# Allow official showcase assets
 !assets/
 !assets/**
