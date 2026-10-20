@@ -6,6 +6,10 @@
 [![Company](https://img.shields.io/badge/Official%20Release-DIGIFORMATION%20LTD%20(UK%20%2316994903)-purple?style=for-the-badge)](https://www.digibizos.co.uk)
 [![Trial](https://img.shields.io/badge/DIGI%20BIZ%20OS-3--Day%20Free%20Trial-orange?style=for-the-badge)](https://www.digibizos.co.uk/pricing)
 
+<p align="center">
+  <img src="assets/digioffice-suite-screenshot.png" alt="DigiOffice Suite Official Desktop Interface - Sheesha Frosted Glass & Quick Actions" width="100%" />
+</p>
+
 **DigiOffice Suite** is a full-featured, sovereign AI-powered desktop office suite developed and published by **DIGIFORMATION LTD**. Built as a free, modern alternative to expensive Microsoft 365 and Copilot subscriptions, DigiOffice runs 100% locally on your PC with zero cloud lock-in, zero monthly seat tolls, and complete privacy.
 
 ---

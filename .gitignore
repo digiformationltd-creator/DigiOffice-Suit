@@ -24,3 +24,7 @@ __pycache__/
 node_modules/
 .DS_Store
 Thumbs.db
+
+# Allow assets directory and images
+!assets/
+!assets/**
