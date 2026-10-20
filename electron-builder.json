@@ -1,0 +1,30 @@
+{
+  "appId": "com.digiformation.digioffice",
+  "productName": "DigiOffice Suite",
+  "copyright": "Copyright © 2026 DIGIFORMATION LTD. All rights reserved.",
+  "directories": {
+    "output": "release",
+    "buildResources": "assets"
+  },
+  "files": [
+    "dist/**/*",
+    "dist-electron/**/*"
+  ],
+  "win": {
+    "target": [
+      {
+        "target": "nsis",
+        "arch": ["x64", "ia32"]
+      }
+    ],
+    "icon": "assets/icon.ico",
+    "legalTrademarks": "DigiOffice Suite is a registered product of DigiFormation Ltd."
+  },
+  "nsis": {
+    "oneClick": false,
+    "allowToChangeInstallationDirectory": true,
+    "createDesktopShortcut": true,
+    "createStartMenuShortcut": true,
+    "shortcutName": "DigiOffice Suite"
+  }
+}

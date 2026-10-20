@@ -1,0 +1,54 @@
+{
+  "name": "digioffice-suite",
+  "productName": "DigiOffice Suite",
+  "version": "1.0.0",
+  "description": "Universal Sovereign AI Desktop Office Suite (Docs, Sheets, Slides, PDF) by DIGIFORMATION LTD",
+  "main": "dist-electron/main/index.js",
+  "homepage": "https://www.digiformation.co.uk",
+  "author": {
+    "name": "DIGIFORMATION LTD",
+    "email": "contact@digiformation.co.uk",
+    "url": "https://www.digiformation.co.uk"
+  },
+  "license": "MIT",
+  "keywords": [
+    "digioffice",
+    "office-suite",
+    "word-processor",
+    "spreadsheet",
+    "rust",
+    "sheesha-ui",
+    "electron",
+    "windows7",
+    "windows11",
+    "digiformation",
+    "digi-biz-os"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "build:electron": "tsc -p tsconfig.electron.json",
+    "preview": "vite preview",
+    "start": "electron dist-electron/main/index.js",
+    "dist:win32": "electron-builder --win nsis --ia32",
+    "dist:win64": "electron-builder --win nsis --x64",
+    "dist:all": "electron-builder --win nsis --ia32 --x64"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.16.0",
+    "tailwind-merge": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "electron": "^31.3.0",
+    "electron-builder": "^24.13.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.5.3",
+    "vite": "^5.3.4"
+  }
+}

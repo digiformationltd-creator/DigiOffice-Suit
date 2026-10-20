@@ -1,29 +1,61 @@
-# DigiOffice Suite Git Ignore
-# Ignore local build directories, temporary files, and unpacked assets
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production Build Outputs & Binary Installers
+dist/
+dist-electron/
+release/
+out/
+*.exe
+*.zip
+*.7z
+*.dmg
+*.AppImage
+
+# Work Dirs & Scratch Folders
 app_extracted/
 digioffice_app/
 FINAL/
 DigiOffice-Suite-*
+GenOffice*
 __pycache__/
-*.exe
-*.zip
-*.lnk
-*.bat
-*.iss
-*.ps1
-*.mjs
-*.py
-*.txt
-*.html
-*.svg
-*.png
-*.ico
-*.json
-*.js
-node_modules/
+
+# OS & Temp Files
 .DS_Store
 Thumbs.db
+*.log
+*.tmp
+*.bak
+.env
+.env.local
 
-# Allow official showcase assets
+# Scratch Automation & Reverse Engineering Files
+*.iss
+*.py
+*.mjs
+*.bat
+*.ps1
+*.lnk
+*.txt
+*.svg
+*.ico
+*.html
+*.js
+locale_keys_extracted.json
+logo-clean-B3ZQbUGe.png
+logo.png
+digilabs_icon_extracted.png
+
+# Repository Whitelist
 !assets/
 !assets/**
+!src/
+!src/**
+!package.json
+!tsconfig.json
+!electron-builder.json
+!README.md
+!LICENSE
+!.gitignore
