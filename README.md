@@ -7,7 +7,7 @@
 [![Trial](https://img.shields.io/badge/DIGI%20BIZ%20OS-3--Day%20Free%20Trial-orange?style=for-the-badge)](https://www.digibizos.co.uk/pricing)
 
 <p align="center">
-  <img src="assets/digioffice-suite-screenshot.png" alt="DigiOffice Suite Official Desktop Interface - Sheesha Frosted Glass & Quick Actions" width="100%" />
+  <img src="assets/digioffice-dashboard.png" alt="DigiOffice Suite Official Desktop Interface - Sheesha Frosted Glass & Quick Actions" width="100%" />
 </p>
 
 **DigiOffice Suite** is a full-featured, sovereign AI-powered desktop office suite developed and published by **DIGIFORMATION LTD**. Built as a free, modern alternative to expensive Microsoft 365 and Copilot subscriptions, DigiOffice runs 100% locally on your PC with zero cloud lock-in, zero monthly seat tolls, and complete privacy.
@@ -25,6 +25,26 @@ All verified production installers are hosted and distributed through the offici
 ### 🗜️ Portable ZIP Editions (Zero Installation Required)
 💼 [Download Portable 64-Bit (.zip 235MB)](https://www.digibizos.co.uk/open-source/digioffice)  
 💼 [Download Portable 32-Bit (.zip 162MB)](https://www.digibizos.co.uk/open-source/digioffice)
+
+---
+
+## 📸 Real-World Desktop Interface & Visual Showcase
+
+### 1. Unified Dashboard & Sheesha Glass UI
+Clean, modern desktop interface featuring 30px frosted acrylic glass quick-action tiles for Word (`.docx`), Excel (`.xlsx`), PowerPoint (`.pptx`), Markdown (`.md`), HTML (`.html`), and PDF (`.pdf`). Includes tactile Pushpin (📌) file organization and 1-click cloud access.
+
+<p align="center">
+  <img src="assets/digioffice-dashboard.png" alt="DigiOffice Suite Home Dashboard" width="100%" />
+</p>
+
+---
+
+### 2. DigiOffice Sheets & Embedded Digi AI Assistant
+Full native `.xlsx` spreadsheet workbook environment with formula evaluations (`SUMIF`, `VLOOKUP`, `INDEX/MATCH`) evaluated in microseconds by an embedded Rust calculation engine with zero AI arithmetic hallucinations. Integrated **Digi AI** side panel assists in creating tables, complex formulas, and data analysis in place.
+
+<p align="center">
+  <img src="assets/digioffice-sheets-ai.png" alt="DigiOffice Sheets and Embedded Digi AI Assistant" width="100%" />
+</p>
 
 ---
 
@@ -79,6 +99,8 @@ Looking to automate your entire business operations with WhatsApp marketing, aut
 Explore all official open-source tools:
 * 🌐 **Official Portal**: [https://www.digibizos.co.uk/open-source](https://www.digibizos.co.uk/open-source)
 * 💼 **DigiOffice Suite Hub**: [https://www.digibizos.co.uk/open-source/digioffice](https://www.digibizos.co.uk/open-source/digioffice)
+* 📱 **Digi WhatsApp Agent**: [https://www.digibizos.co.uk/open-source/digi-whatsapp-agent](https://www.digibizos.co.uk/open-source/digi-whatsapp-agent)
+* 🎧 **DIGI Labs Audio Workstation**: [https://www.digibizos.co.uk/open-source/digi-labs](https://www.digibizos.co.uk/open-source/digi-labs)
 
 ---
 
