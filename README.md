@@ -39,7 +39,16 @@ Clean, modern desktop interface featuring 30px frosted acrylic glass quick-actio
 
 ---
 
-### 2. DigiOffice Sheets & Embedded Digi AI Assistant
+### 2. DigiOffice Writer (.docx) & Embedded Digi AI Co-Author
+Native Word document processing with pixel-perfect `.docx` rendering, full formatting ribbon, and word-style Track Changes. The built-in **Digi AI** assistant drafts articles, generates project reports, polishes text, and structures documents right onto the page with instant revision controls.
+
+<p align="center">
+  <img src="assets/digioffice-writer-ai.png" alt="DigiOffice Writer with Embedded Digi AI Assistant" width="100%" />
+</p>
+
+---
+
+### 3. DigiOffice Sheets (.xlsx) & Embedded Digi AI Assistant
 Full native `.xlsx` spreadsheet workbook environment with formula evaluations (`SUMIF`, `VLOOKUP`, `INDEX/MATCH`) evaluated in microseconds by an embedded Rust calculation engine with zero AI arithmetic hallucinations. Integrated **Digi AI** side panel assists in creating tables, complex formulas, and data analysis in place.
 
 <p align="center">
