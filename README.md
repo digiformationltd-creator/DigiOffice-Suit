@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/digioffice-suite-banner.png" alt="DigiOffice Suite — Your Free Office Suite with AI" width="100%" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0,0,0,0.3);" />
+</p>
+
 # 💼 DigiOffice Suite — Universal AI Desktop Office (32-Bit & 64-Bit for Windows 7 to 11)
 
 [![Download](https://img.shields.io/badge/Download-Official%20Windows%20Setup-success?style=for-the-badge&logo=windows)](https://www.digibizos.co.uk/open-source)
