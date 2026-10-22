@@ -1,9 +1,9 @@
 # 💼 DigiOffice Suite — Universal AI Desktop Office (32-Bit & 64-Bit for Windows 7 to 11)
 
-[![Download 64-Bit](https://img.shields.io/badge/Download-64--Bit%20Setup%20(.exe)-success?style=for-the-badge&logo=windows)](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-64Bit.exe)
-[![Download 32-Bit](https://img.shields.io/badge/Download-32--Bit%20Universal%20(.exe)-blue?style=for-the-badge&logo=windows)](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-32Bit.exe)
-[![Official Open-Source Hub](https://img.shields.io/badge/Open--Source%20Page-DIGI%20BIZ%20OS-0078D6?style=for-the-badge&logo=googlechrome)](https://www.digibizos.co.uk/open-source/digioffice)
-[![Platform](https://img.shields.io/badge/Platform-Windows%207%20SP1%20|%208.1%20|%2010%20|%2011-0078D6?style=for-the-badge&logo=windows)](https://www.digibizos.co.uk/open-source/digioffice)
+[![Download](https://img.shields.io/badge/Download-Official%20Windows%20Setup-success?style=for-the-badge&logo=windows)](https://www.digibizos.co.uk/open-source)
+[![Official Open-Source Hub](https://img.shields.io/badge/Open--Source%20Hub-DIGI%20BIZ%20OS-0078D6?style=for-the-badge&logo=googlechrome)](https://www.digibizos.co.uk/open-source)
+[![Platform](https://img.shields.io/badge/Platform-Windows%207%20SP1%20|%208.1%20|%2010%20|%2011-0078D6?style=for-the-badge&logo=windows)](https://www.digibizos.co.uk/open-source)
+[![Architecture](https://img.shields.io/badge/Architecture-32--Bit%20(x86)%20%26%2064--Bit%20(x64)-00b0ff?style=for-the-badge)](https://www.digibizos.co.uk/open-source)
 [![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](LICENSE)
 [![Company](https://img.shields.io/badge/Official%20Release-DIGIFORMATION%20LTD%20(UK%20%2316994903)-purple?style=for-the-badge)](https://www.digibizos.co.uk)
 [![Trial](https://img.shields.io/badge/DIGI%20BIZ%20OS-3--Day%20Free%20Trial-orange?style=for-the-badge)](https://www.digibizos.co.uk/pricing)
@@ -15,7 +15,7 @@
 > 🌟 **EXPLORE DIGI BIZ OS OPEN SOURCE ECOSYSTEM**  
 > Discover our complete open-source suite of sovereign offline AI tools, automated WhatsApp sales agents, local CRM, customer invoicing, document engine, and multi-agent workflows.  
 > 👉 **[✨ DIGI BIZ OS Open Source Hub & Tools Portal](https://www.digibizos.co.uk/open-source)**  
-> 🌐 **[✨ DigiOffice Suite Official Open-Source Page & Full Docs](https://www.digibizos.co.uk/open-source/digioffice)**
+> 🌐 **[✨ DigiOffice Suite Official Open-Source Page](https://www.digibizos.co.uk/open-source/digioffice)**
 
 ---
 
@@ -25,19 +25,15 @@
 
 ## 📥 Downloads & Official Releases
 
-All verified production installers are hosted and distributed through the official GitHub Releases and the DIGI BIZ OS Open-Source Portal:
+All verified production installers are distributed exclusively through the official **DIGI BIZ OS Open-Source Portal**:
 
-### ⚡ 1-Click Official Windows Installers (Direct Download)
+### ⚡ 1-Click Official Windows Installer (Download Portal)
+👉 **[🚀 Download DigiOffice Suite Setup (.exe)](https://www.digibizos.co.uk/open-source)** — Standalone 1-click Windows installer (64-Bit & 32-Bit Universal) with Sheesha frosted glass UI, Rust calculation engine, and automatic desktop shortcuts.
 
-| Edition | Target Operating System | Architecture | Direct Setup File (.exe) | Official Open-Source Page |
-| :--- | :--- | :--- | :--- | :--- |
-| **DigiOffice 64-Bit Edition** | Windows 10 & Windows 11 | 64-Bit (`x64`) | [🚀 **Download 64-Bit Setup (.exe 161MB)**](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-64Bit.exe) | [🌐 View Open-Source Page](https://www.digibizos.co.uk/open-source/digioffice) |
-| **DigiOffice 32-Bit Universal** | Windows 7 SP1, 8.1, 10, 11 | 32-Bit (`x86`) Universal | [⚡ **Download 32-Bit Setup (.exe 120MB)**](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-32Bit.exe) | [🌐 View Open-Source Page](https://www.digibizos.co.uk/open-source/digioffice) |
+* 🚀 **[Download 64-Bit Edition (.exe)](https://www.digibizos.co.uk/open-source)** — For Windows 10 & 11 (64-Bit x64). High performance multi-core acceleration.  
+* ⚡ **[Download 32-Bit Universal Edition (.exe)](https://www.digibizos.co.uk/open-source)** — Universal compatibility for Windows 7 SP1, 8.1, 10, 11 (32-Bit x86 & 64-Bit).
 
-### 🌐 Official Open-Source Portals
-* 🌐 **[DigiOffice Suite Official Product Page & Technical Guide](https://www.digibizos.co.uk/open-source/digioffice)**
-* 🌐 **[Explore All Open-Source Tools on DIGI BIZ OS](https://www.digibizos.co.uk/open-source)**
-* 📦 **[Browse GitHub Release v1.0.0 Assets](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/tag/v1.0.0)**
+🌐 **[Explore All Open-Source Software on DIGI BIZ OS](https://www.digibizos.co.uk/open-source)**
 
 ---
 
@@ -74,16 +70,14 @@ Full native `.xlsx` spreadsheet workbook environment with formula evaluations (`
 
 Installing DigiOffice Suite is straightforward and requires zero complex configuration:
 
-1. **Download the Setup Installer**:
-   * [Download 64-Bit Setup (.exe 161MB)](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-64Bit.exe) (Windows 10 & 11)
-   * [Download 32-Bit Universal Setup (.exe 120MB)](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-32Bit.exe) (Windows 7 to 11)
-   * Or visit our official open-source page: **[https://www.digibizos.co.uk/open-source/digioffice](https://www.digibizos.co.uk/open-source/digioffice)**
-2. **Launch the Installer**: Double-click `DigiOffice-Suite-Setup-64Bit.exe` or `DigiOffice-Suite-Setup-32Bit.exe`.
-3. **Complete the Wizard**: Follow the standard Windows setup wizard (takes under 15 seconds). It will:
+1. **Visit the Official Open-Source Download Page**: Head over to our official portal: **[https://www.digibizos.co.uk/open-source](https://www.digibizos.co.uk/open-source)**.
+2. **Select DigiOffice Suite**: Choose either the **64-Bit** (Windows 10/11) or **32-Bit Universal** (Windows 7/8/10/11) edition.
+3. **Download & Launch the Installer**: Run `DigiOffice-Suite-Setup-64Bit.exe` or `DigiOffice-Suite-Setup-32Bit.exe`.
+4. **Complete the Wizard**: Follow the standard Windows setup wizard (takes under 15 seconds). It will:
    * Install the binaries cleanly into your local system directory.
    * Create a Start Menu folder and Desktop shortcut (**DigiOffice Suite**).
    * Automatically register native file associations for `.docx`, `.xlsx`, `.pptx`, and `.pdf`.
-4. **Launch & Start Creating**: Double-click the desktop shortcut to launch the Sheesha UI workspace and begin working immediately.
+5. **Launch & Start Creating**: Double-click the desktop shortcut to launch the Sheesha UI workspace and begin working immediately.
 
 ---
 
