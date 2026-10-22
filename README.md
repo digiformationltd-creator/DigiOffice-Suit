@@ -1,37 +1,50 @@
 # 💼 DigiOffice Suite — Universal AI Desktop Office (32-Bit & 64-Bit for Windows 7 to 11)
 
+[![Download 64-Bit](https://img.shields.io/badge/Download-64--Bit%20Setup%20(.exe)-success?style=for-the-badge&logo=windows)](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-64Bit.exe)
+[![Download 32-Bit](https://img.shields.io/badge/Download-32--Bit%20Universal%20(.exe)-blue?style=for-the-badge&logo=windows)](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-32Bit.exe)
+[![Official Open-Source Hub](https://img.shields.io/badge/Open--Source%20Page-DIGI%20BIZ%20OS-0078D6?style=for-the-badge&logo=googlechrome)](https://www.digibizos.co.uk/open-source/digioffice)
 [![Platform](https://img.shields.io/badge/Platform-Windows%207%20SP1%20|%208.1%20|%2010%20|%2011-0078D6?style=for-the-badge&logo=windows)](https://www.digibizos.co.uk/open-source/digioffice)
-[![Architecture](https://img.shields.io/badge/Architecture-32--Bit%20(x86)%20%26%2064--Bit%20(x64)-00b0ff?style=for-the-badge)](https://www.digibizos.co.uk/open-source/digioffice)
 [![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](LICENSE)
 [![Company](https://img.shields.io/badge/Official%20Release-DIGIFORMATION%20LTD%20(UK%20%2316994903)-purple?style=for-the-badge)](https://www.digibizos.co.uk)
 [![Trial](https://img.shields.io/badge/DIGI%20BIZ%20OS-3--Day%20Free%20Trial-orange?style=for-the-badge)](https://www.digibizos.co.uk/pricing)
 
 <p align="center">
-  <img src="assets/digioffice-dashboard.png" alt="DigiOffice Suite Official Desktop Interface - Sheesha Frosted Glass & Quick Actions" width="100%" />
+  <img src="assets/digioffice-dashboard.png" alt="DigiOffice Suite Official Desktop Interface - Alpine Mountain Horizon & Sheesha Frosted Glass" width="100%" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0,0,0,0.3); border: 1px solid rgba(59, 130, 246, 0.3);" />
 </p>
 
-**DigiOffice Suite** is a full-featured, sovereign AI-powered desktop office suite developed and published by **DIGIFORMATION LTD**. Built as a free, modern alternative to expensive Microsoft 365 and Copilot subscriptions, DigiOffice runs 100% locally on your PC with zero cloud lock-in, zero monthly seat tolls, and complete privacy.
+> 🌟 **EXPLORE DIGI BIZ OS OPEN SOURCE ECOSYSTEM**  
+> Discover our complete open-source suite of sovereign offline AI tools, automated WhatsApp sales agents, local CRM, customer invoicing, document engine, and multi-agent workflows.  
+> 👉 **[✨ DIGI BIZ OS Open Source Hub & Tools Portal](https://www.digibizos.co.uk/open-source)**  
+> 🌐 **[✨ DigiOffice Suite Official Open-Source Page & Full Docs](https://www.digibizos.co.uk/open-source/digioffice)**
+
+---
+
+**DigiOffice Suite** is a full-featured, sovereign AI-powered desktop office suite developed and published by **DIGIFORMATION LTD** (UK Registered Company #16994903). Built as a 100% free lifetime alternative to expensive recurring Microsoft 365 ($99-$240/yr) and Copilot subscriptions, DigiOffice runs entirely locally on your PC with zero cloud lock-in, zero monthly seat tolls, and complete privacy.
 
 ---
 
 ## 📥 Downloads & Official Releases
 
-All verified production installers are hosted and distributed through the official DIGI BIZ OS Open-Source Portal:
+All verified production installers are hosted and distributed through the official GitHub Releases and the DIGI BIZ OS Open-Source Portal:
 
-### ⚡ 1-Click Official Windows Installer (Recommended)
-👉 **[🚀 Download DigiOffice Suite Setup (.exe)](https://www.digibizos.co.uk/open-source/digioffice)** — Standalone 1-click Windows installer (64-Bit & 32-Bit Universal) with Sheesha frosted glass UI, Rust calculation engine, and automatic desktop shortcuts.
+### ⚡ 1-Click Official Windows Installers (Direct Download)
 
-* 🚀 [Download 64-Bit Edition (.exe 144MB)](https://www.digibizos.co.uk/open-source/digioffice) — For Windows 10 & 11 (64-Bit x64). High performance multi-core acceleration.  
-* ⚡ [Download 32-Bit Universal Edition (.exe 104MB)](https://www.digibizos.co.uk/open-source/digioffice) — Universal compatibility for Windows 7 SP1, 8.1, 10, 11 (32-Bit x86 & 64-Bit).
+| Edition | Target Operating System | Architecture | Direct Setup File (.exe) | Official Open-Source Page |
+| :--- | :--- | :--- | :--- | :--- |
+| **DigiOffice 64-Bit Edition** | Windows 10 & Windows 11 | 64-Bit (`x64`) | [🚀 **Download 64-Bit Setup (.exe 161MB)**](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-64Bit.exe) | [🌐 View Open-Source Page](https://www.digibizos.co.uk/open-source/digioffice) |
+| **DigiOffice 32-Bit Universal** | Windows 7 SP1, 8.1, 10, 11 | 32-Bit (`x86`) Universal | [⚡ **Download 32-Bit Setup (.exe 120MB)**](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-32Bit.exe) | [🌐 View Open-Source Page](https://www.digibizos.co.uk/open-source/digioffice) |
 
-🌐 **[Explore all Open-Source Tools on DIGI BIZ OS](https://www.digibizos.co.uk/open-source)**
+### 🌐 Official Open-Source Portals
+* 🌐 **[DigiOffice Suite Official Product Page & Technical Guide](https://www.digibizos.co.uk/open-source/digioffice)**
+* 🌐 **[Explore All Open-Source Tools on DIGI BIZ OS](https://www.digibizos.co.uk/open-source)**
+* 📦 **[Browse GitHub Release v1.0.0 Assets](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/tag/v1.0.0)**
 
 ---
 
 ## 📸 Real-World Desktop Interface & Visual Showcase
 
-### 1. Unified Dashboard & Sheesha Glass UI
-Clean, modern desktop interface featuring 30px frosted acrylic glass quick-action tiles for Word (`.docx`), Excel (`.xlsx`), PowerPoint (`.pptx`), Markdown (`.md`), HTML (`.html`), and PDF (`.pdf`). Includes tactile Pushpin (📌) file organization and 1-click cloud access.
+### 1. Unified Dashboard & Sheesha Glass UI with Alpine Mountain Horizon
+Clean, modern desktop interface featuring an Alpine Mountain morning landscape, 30px frosted acrylic glass quick-action tiles for Word (`.docx`), Excel (`.xlsx`), PowerPoint (`.pptx`), Markdown (`.md`), HTML (`.html`), and PDF (`.pdf`), and a 22px curved glass container for Recent Documents with smooth internal scrolling.
 
 <p align="center">
   <img src="assets/digioffice-dashboard.png" alt="DigiOffice Suite Home Dashboard" width="100%" />
@@ -61,8 +74,11 @@ Full native `.xlsx` spreadsheet workbook environment with formula evaluations (`
 
 Installing DigiOffice Suite is straightforward and requires zero complex configuration:
 
-1. **Download the Setup Installer**: Click either the **64-Bit** or **32-Bit Universal** installer link above to visit our official download page: **[https://www.digibizos.co.uk/open-source/digioffice](https://www.digibizos.co.uk/open-source/digioffice)**.
-2. **Launch the Installer**: Run `DigiOffice-Suite-Setup-64Bit-(Windows-10-and-11).exe` or `DigiOffice-Suite-Setup-32Bit-(Windows-7-to-11).exe`.
+1. **Download the Setup Installer**:
+   * [Download 64-Bit Setup (.exe 161MB)](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-64Bit.exe) (Windows 10 & 11)
+   * [Download 32-Bit Universal Setup (.exe 120MB)](https://github.com/digiformationltd-creator/DigiOffice-Suit/releases/download/v1.0.0/DigiOffice-Suite-Setup-32Bit.exe) (Windows 7 to 11)
+   * Or visit our official open-source page: **[https://www.digibizos.co.uk/open-source/digioffice](https://www.digibizos.co.uk/open-source/digioffice)**
+2. **Launch the Installer**: Double-click `DigiOffice-Suite-Setup-64Bit.exe` or `DigiOffice-Suite-Setup-32Bit.exe`.
 3. **Complete the Wizard**: Follow the standard Windows setup wizard (takes under 15 seconds). It will:
    * Install the binaries cleanly into your local system directory.
    * Create a Start Menu folder and Desktop shortcut (**DigiOffice Suite**).
